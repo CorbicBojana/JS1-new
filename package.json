@@ -1,0 +1,28 @@
+{
+  "name": "js1",
+  "version": "1.0.0",
+  "description": "Single price grid component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorbicBojana/JS1.git"
+  },
+  "author": "CorbicBojana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorbicBojana/JS1/issues"
+  },
+  "homepage": "https://github.com/CorbicBojana/JS1#readme",
+  "dependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "node-sass": "^4.13.1"
+  }
+}
